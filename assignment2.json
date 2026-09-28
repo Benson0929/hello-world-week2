@@ -1,0 +1,8 @@
+{
+  "name": "Glasses",
+  "color": "silver",
+  "frame": "metal",
+  "lens": "clear",
+  "count": 1,
+  "isPrescription": true
+}
